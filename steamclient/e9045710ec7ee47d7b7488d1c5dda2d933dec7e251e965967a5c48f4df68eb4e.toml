@@ -5,7 +5,8 @@ sig = "48 8B C4 55 48 8D 68 A1 48 81 EC C0 00 00 00 48 89 70 18"
 
 [0xC37F2D8E]
 name = "BuildDepotDependency"
-sig = "48 8B C4 4C 89 48 20 89 50 10 48 89 48 08 55 57"
+rva = "0x4D75C0"
+sig = "48 8B C4 4C 89 48 20 89 50 10 48 89 48 08 55 48 8D A8 ?? ?? FF FF"
 
 [0xDB78B4AE]
 name = "BuildSpawnEnvBlock"
@@ -44,7 +45,8 @@ sig = "40 53 55 56 57 41 56 41 57 48 81 EC 78 01 00 00"
 
 [0xA185DB47]
 name = "GetAppIDForCurrentPipe"
-sig = "8B 81 30 0D 00 00 83 F8 FF 74 ??"
+rva = "0x98EDA0"
+sig = "8B 81 ?? ?? ?? ?? 83 F8 FF 74 ?? 44 8B 89"
 
 [0xCC79542C]
 name = "GetOrAddAppData"
@@ -103,11 +105,13 @@ sig = "48 89 5C 24 08 57 48 83 EC 20 8B D9 E8 ?? ?? ?? ??"
 
 [0x103B52AA]
 name = "ProcessPendingLicenseUpdates"
-sig = "41 56 41 57 48 83 EC 38 83 B9 98 24 00 00 00"
+rva = "0x9D52E0"
+sig = "41 56 41 57 48 83 EC 38 83 B9 ?? ?? 00 00 00"
 
 [0x836FF9F0]
 name = "RecvPkt"
-sig = "48 8B C4 55 48 8D A8 98 F6 FF FF"
+rva = "0x5BC990"
+sig = "48 8B C4 55 48 8D A8 ?? ?? FF FF 48 81 EC ?? ?? 00 00 48 89 58 08 48 8B DA"
 
 [0x68211B4D]
 name = "SendCallbackToPipe"
@@ -116,7 +120,8 @@ sig = "48 89 5C 24 08 57 48 83 EC 30 41 8B D9 41 8B F8"
 
 [0x7D1EC415]
 name = "SpawnProcess"
-sig = "48 89 5C 24 18 4C 89 4C 24 20 48 89 54 24 10 55 56 57 41 54 41 55 41 56 41 57 48 8D AC 24 30 FF FF FF"
+rva = "0x9F8B80"
+sig = "48 89 5C 24 18 4C 89 4C 24 20 48 89 54 24 10 55 56 57 41 54 41 55 41 56 41 57 48 8D AC 24 ?? FF FF FF"
 
 [0xBE1B4D08]
 name = "GetRedirectedAppId"

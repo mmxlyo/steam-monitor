@@ -25,7 +25,8 @@ sig = "89 54 24 10 53 48 83 EC 40 48 8B 05 ?? ?? ?? ??"
 
 [0xC89CFA75]
 name = "GetTopManager"
-sig = "48 8B 05 C9 2C B1 00 C3"
+rva = "0x639770"
+sig = "48 8B 05 ?? ?? ?? ?? C3 CC CC CC CC CC CC CC CC 40 55"
 
 [0xBDE16BD6]
 name = "LoadModuleWithPath"
