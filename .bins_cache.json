@@ -8,5 +8,15 @@
     "sui_sha": "1b9457943205dc3af0bd53463ba331cbd2a381388699705c02271aac7a2b1252",
     "timestamp": 1792333203,
     "version": "1791918634"
+  },
+  "f7cd1e53fe089f70bf96f3b5cb80b9756faa4ac5bee423b75fe290b08f043c80": {
+    "bins_file": "bins_win64.zip.9ddb03e8d0ae9a8a32f4aea8540deeefcff66492",
+    "bins_sha2": "f7cd1e53fe089f70bf96f3b5cb80b9756faa4ac5bee423b75fe290b08f043c80",
+    "channel": "Beta",
+    "sc_sha": "6980e1cdf6086e500e53d68e23292eadef313b19a998b8e3c67650c88bc74cff",
+    "status": "complete",
+    "sui_sha": "a4511361b3a1f60317a3843aa1e2e7c4f5ee5f08979eba2d616b4df332d4429c",
+    "timestamp": 1792339871,
+    "version": "1792192922"
   }
 }
