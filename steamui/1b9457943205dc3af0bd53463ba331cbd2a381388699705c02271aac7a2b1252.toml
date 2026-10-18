@@ -23,6 +23,11 @@ name = "GetAppByID"
 rva = "0x61B110"
 sig = "89 54 24 10 53 48 83 EC 40 48 8B 05 ?? ?? ?? ??"
 
+[0x097C8011]
+name = "GetAvailableLenders"
+rva = "0x530B90"
+sig = "48 8B C4 4C 89 40 18 89 50 10 55 41 55 41 57 48 8D 68 A1 48 81 EC ?? ?? 00 00"
+
 [0xC89CFA75]
 name = "GetTopManager"
 rva = "0x639770"

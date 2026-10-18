@@ -106,7 +106,7 @@ sig = "48 89 5C 24 08 57 48 83 EC 20 8B D9 E8 ?? ?? ?? ??"
 [0x103B52AA]
 name = "ProcessPendingLicenseUpdates"
 rva = "0x9D52E0"
-sig = "41 56 41 57 48 83 EC 38 83 B9 ?? ?? 00 00 00"
+sig = "83 B9 ?? ?? 00 00 00 B8 ?? ?? 00 00 ?? ?? ?? 24 ?? 4C 8B"
 
 [0x836FF9F0]
 name = "RecvPkt"

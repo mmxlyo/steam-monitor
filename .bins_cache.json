@@ -1,0 +1,12 @@
+{
+  "2378aa4845fea7b08d3cc33a88db240db20e33cf8bb934f7f4037d89a1bac1e9": {
+    "bins_file": "bins_win64.zip.0ed643edc3bd395674066241d556cd970f4bdc19",
+    "bins_sha2": "2378aa4845fea7b08d3cc33a88db240db20e33cf8bb934f7f4037d89a1bac1e9",
+    "channel": "Stable",
+    "sc_sha": "e9045710ec7ee47d7b7488d1c5dda2d933dec7e251e965967a5c48f4df68eb4e",
+    "status": "complete",
+    "sui_sha": "1b9457943205dc3af0bd53463ba331cbd2a381388699705c02271aac7a2b1252",
+    "timestamp": 1792333203,
+    "version": "1791918634"
+  }
+}
