@@ -9,6 +9,26 @@
     "timestamp": 1792333203,
     "version": "1791918634"
   },
+  "a5993de608bdade2f44dcb412abf31b630af791e05e9bcbc844375d8b52be949": {
+    "bins_file": "bins_win64.zip.380c733b9be2689ddccd189a13ecef9151fce847",
+    "bins_sha2": "a5993de608bdade2f44dcb412abf31b630af791e05e9bcbc844375d8b52be949",
+    "channel": "Beta",
+    "sc_sha": "891378c07c8524336f644e517e21d7ba7523227d78a2ec090fa405acdb2e4579",
+    "status": "complete",
+    "sui_sha": "d96369971d3f9a13b8ab7f568b9b2478dd7ab3599eb520017b9508340473d224",
+    "timestamp": 1792631469,
+    "version": "1792626604"
+  },
+  "f34b0d5924d0cca4c81775ed2fef0aee1ca060e2daa5c24270711267786c0236": {
+    "bins_file": "bins_win64.zip.1f91da2609327de9658146b01307e89a13cc1ef8",
+    "bins_sha2": "f34b0d5924d0cca4c81775ed2fef0aee1ca060e2daa5c24270711267786c0236",
+    "channel": "Stable",
+    "sc_sha": "253e0a11a4415b38c78a42f7bdd6ecc426455f06c1ba6453a48090df3142dbbc",
+    "status": "complete",
+    "sui_sha": "cd9226db4e6c28942df70c22c0475d91fdd62cba5f100baae2d65af57cabb610",
+    "timestamp": 1792631465,
+    "version": "1792618285"
+  },
   "f7cd1e53fe089f70bf96f3b5cb80b9756faa4ac5bee423b75fe290b08f043c80": {
     "bins_file": "bins_win64.zip.9ddb03e8d0ae9a8a32f4aea8540deeefcff66492",
     "bins_sha2": "f7cd1e53fe089f70bf96f3b5cb80b9756faa4ac5bee423b75fe290b08f043c80",

@@ -8,5 +8,5 @@ The version number is the client build's Unix timestamp; the Updated column show
 
 | Channel | Version | Updated (UTC) |
 | --- | --- | --- |
-| Stable | 1791918634 | 2026-10-13 19:10:34 UTC |
-| Beta | 1792192922 | 2026-10-16 23:22:02 UTC |
+| Stable | 1792618285 | 2026-10-21 21:31:25 UTC |
+| Beta | 1792626604 | 2026-10-21 23:50:04 UTC |
