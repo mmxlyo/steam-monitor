@@ -9,6 +9,16 @@
     "timestamp": 1792333203,
     "version": "1791918634"
   },
+  "94bfc2e3749843cd93797f3ccc89c90b55229799867f2f26e117854f8ecd1d93": {
+    "bins_file": "bins_win64.zip.ddcc0a1d92558733db9489ff751bdcdc5f2b15e0",
+    "bins_sha2": "94bfc2e3749843cd93797f3ccc89c90b55229799867f2f26e117854f8ecd1d93",
+    "channel": "Beta",
+    "sc_sha": "844afeaec219d366b4fd01f2c1718f8d0c567212d4b521c124494aaa1b0eca30",
+    "status": "complete",
+    "sui_sha": "faf33d557201c2ec50dfa41449324ce63d2e1c90b5b005be4192ddc242a7bc5c",
+    "timestamp": 1792717850,
+    "version": "1792711043"
+  },
   "a5993de608bdade2f44dcb412abf31b630af791e05e9bcbc844375d8b52be949": {
     "bins_file": "bins_win64.zip.380c733b9be2689ddccd189a13ecef9151fce847",
     "bins_sha2": "a5993de608bdade2f44dcb412abf31b630af791e05e9bcbc844375d8b52be949",
