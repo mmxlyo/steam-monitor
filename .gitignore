@@ -1,0 +1,6 @@
+# Internal scanner cache and temporary files
+.bins_cache.json
+.healed_history.json
+*.diff.json
+*.diff
+*.cache
