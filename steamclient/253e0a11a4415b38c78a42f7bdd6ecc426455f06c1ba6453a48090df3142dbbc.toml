@@ -11,7 +11,7 @@ sig = "48 8B C4 4C 89 48 20 89 50 10 48 89 48 08 55 48 8D A8 ?? ?? FF FF"
 [0xDB78B4AE]
 name = "BuildSpawnEnvBlock"
 rva = "0x9F7470"
-sig = "4C 89 4C 24 20 4C 89 44 24 18 48 89 54 24 10 48 89 4C 24 08 55 53 56 57 41 54 41 55 41 56 41 57 48 8D AC 24 B8 FE FF FF | 48 89 5C 24 18 48 89 4C 24 08 55 56 57 41 54 41 55 41 56 41 57 48 8D AC 24 80 FE FF FF"
+sig = "48 8B C4 4C 89 48 20 89 50 10 48 89 48 08 55 48 8D A8 ?? ?? FF FF"
 
 [0x64BF7C45]
 name = "CUtlBufferEnsureCapacity"
@@ -51,7 +51,7 @@ sig = "8B 81 ?? ?? ?? ?? 83 F8 FF 74 ?? 44 8B 89"
 [0xCC79542C]
 name = "GetOrAddAppData"
 rva = "0x4CA190"
-sig = "48 83 EC 58 48 8B 05 ?? ?? ?? ?? 48 89 5C 24 68 48 89 6C 24 70"
+sig = "8B 81 ?? ?? ?? ?? 83 F8 FF 74 ?? 44 8B 89"
 
 [0x3B3A0F9D]
 name = "GetPackageInfo"
