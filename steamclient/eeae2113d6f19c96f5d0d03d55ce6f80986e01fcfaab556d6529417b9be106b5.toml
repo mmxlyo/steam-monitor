@@ -3,6 +3,11 @@ name = "BBuildAndAsyncSendFrame"
 rva = "0xD68020"
 sig = "48 8B C4 55 48 8D 68 A1 48 81 EC C0 00 00 00 48 89 70 18"
 
+[0xE470BBA8]
+name = "BIsAppBorrowerLocked"
+rva = "0xA07210"
+sig = "48 89 5C 24 08 48 89 7C 24 10 44 8B 89 ?? ?? 00 00 44 8B DA 48 8B F9"
+
 [0x4BA4B6AB]
 name = "BIsDepotAllowed"
 rva = "0x9FD7E0"
